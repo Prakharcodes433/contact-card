@@ -22,7 +22,7 @@ A modern digital contact card for a full-stack developer.
 
 ## **Links**
 
-*  
+  
 *   **GitHub:** [[Link to GitHub profile](https://github.com/Prakharcodes433)]
 
 ## **Installation and Usage**
