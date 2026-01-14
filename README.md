@@ -29,11 +29,12 @@ A modern digital contact card for a full-stack developer.
     ```bash
     git clone github.com
     ```
-
-    ## Appearance in Device
-
 2.  **Navigate to the project directory:**
     ```bash
     cd contact-card
     ```
 3.  **Open the index.html file** in your browser to view the contact card locally.
+
+  ## Appearance in Device
+
+  
