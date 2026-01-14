@@ -29,6 +29,9 @@ A modern digital contact card for a full-stack developer.
     ```bash
     git clone github.com
     ```
+
+    ## Appearance in Device
+
 2.  **Navigate to the project directory:**
     ```bash
     cd contact-card
