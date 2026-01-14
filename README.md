@@ -1,4 +1,4 @@
-# `contact-card` Project README
+# `contact-card` 
 
 This repository contains the code for a modern, digital contact card or **portfolio card** for a full-stack developer. The project serves as a centralized, visually appealing hub to display key contact information and links to professional profiles.
 
