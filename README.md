@@ -21,8 +21,6 @@ A modern digital contact card for a full-stack developer.
 *   **React:** (Optional, if built as a React component).
 
 ## **Links**
-
-  
 *   **GitHub:** [[Link to GitHub profile](https://github.com/Prakharcodes433)]
 
 ## **Installation and Usage**
