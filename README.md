@@ -37,5 +37,5 @@ A modern digital contact card for a full-stack developer.
 
   ## Appearance in Device
 
-  <img width="490" height="811" alt="Screenshot 2026-01-14 202550" src="https://github.com/user-attachments/assets/b3c5c34e-1aee-4dbf-9814-4e0004288d6c" />
+  <img width="390" height="711" alt="Screenshot 2026-01-14 202550" src="https://github.com/user-attachments/assets/b3c5c34e-1aee-4dbf-9814-4e0004288d6c" />
 
