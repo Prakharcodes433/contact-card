@@ -24,7 +24,7 @@ A modern digital contact card for a full-stack developer.
 
 *   **Portfolio:** [Link to Portfolio]
 *   **Twitter:** [Link to Twitter]
-*
+
 *   **GitHub:** [[Link to GitHub profile](https://github.com/Prakharcodes433)]
 
 ## **Installation and Usage**
